@@ -42,7 +42,7 @@ const Services = () => {
             <FaGasPump className='text-9xl p-8 bg-slate-400 rounded-full hover:bg-orange-400 text-white ease-in duration-300 hover:animate-spin' />
           </figure>
           <div className="card-body text-center">
-            <h2 className="card-title text-2xl">Construction And Engineering</h2>
+            <h2 className="card-title text-2xl">Reparing and setting</h2>
             <p className='text-justify font-paragraph pb-8'>
               Construction engineering is a professional discipline that deals with the designing, planning, construction and management of infrastructures such as roads, tunnels, bridges, airports, railroads, facilities, buildings, dams, utilities and other projects.
               <FaArrowRight className='absolute bottom-[-25px] left-[45%]  bg-orange-400 p-3 text-white text-5xl rounded-full' />
