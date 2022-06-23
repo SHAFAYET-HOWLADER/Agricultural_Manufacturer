@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Stroke Sprayer Pump (Agricultural Sprayer)", 
+        "img": "https://i.ibb.co/TcvK9cZ/tools-one.png",
+        "description": "Agricultural sprayers used in agricultural work are available in 2 and 4 stroke spray pumps in the market. These have been launched in the market with some features.",
+        "minimumOrderQuantity": 100, 
+        "availableQuantity":500,
+        "price": 1000
+    },
+    {
+        "name": "Engine Driven Portable Agricultural Sprayer", 
+        "img": "https://i.ibb.co/TP7LzHD/tools-two.png",
+        "description": "A special sprayer is an engine-driven portable sprayer in agricultural sprayers. It is also a useful sprayer used in disinfectant and hygiene operations.",
+        "minimumOrderQuantity":200, 
+        "availableQuantity":1000,
+        "price": 1200
+    },
+    {
+        "name": "Mini sprayer", 
+        "img": "https://i.ibb.co/HGPGYGy/tools-three.png",
+        "description": "These sprayers are proving to be extremely useful for small farmers due to their manual operation. It costs neither engine nor electricity.",
+        "minimumOrderQuantity":300, 
+        "availableQuantity":3000,
+        "price": 1500
+    },
+    {
+        "name": "Trolley Pump", 
+        "img": "https://i.ibb.co/DQmHpKY/tools-four.png",
+        "description": "The trolley pump is more useful for those farmers who have a lot of land for cultivation. In this, disinfectants can be sprayed in a short time.",
+        "minimumOrderQuantity":100, 
+        "availableQuantity":900,
+        "price": 600
+    },
+    {
+        "name": "Trailer sprayer", 
+        "img": "https://i.ibb.co/wBhF81K/tools-five.png",
+        "description": "Trailer mounted sprayers or tractor mounted sprayers are those used for mounting trailers and tractors. The farmer should choose this in view of its necessity and ease of use.",
+        "minimumOrderQuantity":300, 
+        "availableQuantity":4000,
+        "price": 400
+    },
+    {
+        "name": "Combine Harvester", 
+        "img": "https://i.ibb.co/Qr8vK1W/tools-six.png",
+        "description": "A combine harvester is used for the processes of farming such as reaping, threshing, and winnowing. Combine Harvester is the best machine that is used to harvest all types of crops",
+        "minimumOrderQuantity":200, 
+        "availableQuantity":2000,
+        "price": 300
+    }
+]
